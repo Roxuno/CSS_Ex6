@@ -1,0 +1,17 @@
+.flex {
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+}
+.items {
+    background-color: chocolate;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+* {
+    overflow: hidden;
+}
